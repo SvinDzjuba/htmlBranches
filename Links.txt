@@ -1,0 +1,20 @@
+FLAGS:
+
+Switz -https://ru.wikipedia.org/wiki/%D0%A4%D0%BB%D0%B0%D0%B3_%D0%A8%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D0%B8#/media/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Switzerland_(Pantone).svg
+Poland - https://ru.wikipedia.org/wiki/%D0%A4%D0%BB%D0%B0%D0%B3_%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B8#/media/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Poland.svg
+Danmark - https://ru.wikipedia.org/wiki/%D0%A4%D0%BB%D0%B0%D0%B3_%D0%94%D0%B0%D0%BD%D0%B8%D0%B8#/media/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Denmark.svg
+Azerbaijan - https://ru.wikipedia.org/wiki/%D0%A4%D0%BB%D0%B0%D0%B3_%D0%90%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0%D0%BD%D1%81%D0%BA%D0%BE%D0%B9_%D0%A0%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8#/media/%D0%A4%D0%B0%D0%B9%D0%BB:Flag_of_Azerbaijan.svg
+
+GERBS:
+
+Poland - https://ru.m.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Coat_of_arms_of_Poland-official.png
+Switzerland - https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D1%80%D0%B1_%D0%A8%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D0%B8#/media/%D0%A4%D0%B0%D0%B9%D0%BB:Coat_of_Arms_of_Switzerland_(Pantone).svg
+Denmark - https://ru.wikipedia.org/wiki/%D0%93%D0%B5%D1%80%D0%B1_%D0%94%D0%B0%D0%BD%D0%B8%D0%B8#/media/%D0%A4%D0%B0%D0%B9%D0%BB:National_Coat_of_arms_of_Denmark.svg
+Azerbaijan - https://ru.wikipedia.org/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Emblem_of_Azerbaijan.svg#/media/%D0%A4%D0%B0%D0%B9%D0%BB:Emblem_of_Azerbaijan_(simmetric_star).svg
+
+NATIONAL SYMBOLS:
+
+Azerbaijan - https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB%D1%8B_%D0%90%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0%D0%BD%D0%B0#/media/%D0%A4%D0%B0%D0%B9%D0%BB:Qarabaq_ati.jpg
+Denmark - https://www.google.com/search?q=%D0%BB%D0%B5%D0%B1%D0%B5%D0%B4%D1%8C-%D1%88%D0%B8%D0%BF%D1%83%D0%BD&rlz=1C1GCEU_en-GBEE917EE917&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjS07jDveX0AhWtAhAIHYx6DtAQ_AUoAXoECAEQAw&biw=1920&bih=912&dpr=1#imgrc=5GKImh7Ay5y4pM
+Poland - https://en.wikipedia.org/wiki/File:%D0%97%D1%83%D0%B1%D1%80%D0%B8_%D1%83_%D0%9A%D0%B0%D1%80%D0%BF%D0%B0%D1%82%D0%B0%D1%85_(3).jpg
+Switzerland - https://ru-traveller.livejournal.com/4429095.html 
