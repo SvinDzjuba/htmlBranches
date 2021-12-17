@@ -25,3 +25,13 @@ h1 страна
 h1 история
 h2 Достопримечательности
 h3 география положения климат кухня
+
+SIGHTS:
+
+Azerbaijan:
+https://www.russianfood.com/recipes
+https://www.tripzaza.com
+
+Denmark:
+https://www.tripzaza.com
+https://top10.travel/
