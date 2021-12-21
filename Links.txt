@@ -26,13 +26,29 @@ h1 история
 h2 Достопримечательности
 h3 география положения климат кухня
 
-SIGHTS:
+INFO:
 
 Azerbaijan:
 https://www.russianfood.com/recipes
-https://www.tripzaza.com
+https://www.tripzaza.com/ru/destinations/dostoprimechatelnosti-azerbaydzhana
+https://pogoda33.ru/%D0%9A%D0%BB%D0%B8%D0%BC%D0%B0%D1%82-%D0%90%D0%B7%D0%B5%D1%80%D0%B1%D0%B0%D0%B9%D0%B4%D0%B6%D0%B0%D0%BD%D0%B0
+https://allmyworld.ru/dostoprimechatelnosti-azerbajdzhana/
 
 Denmark:
 https://www.tripzaza.com
-https://top10.travel/
+https://top10.travel/dostoprimechatelnosti-danii/
 https://gurmantur.com/evropa/daniya/kakie-blyuda-poprobovat
+
+
+Poland:
+https://ru.wikipedia.org/wiki/%D0%9F%D0%BE%D0%BB%D1%8C%D1%88%D0%B0
+https://www.vstours.ks.ua/catalog/country/35-poland
+https://top10.travel/dostoprimechatelnosti-polshi/
+https://gurmantur.com/evropa/polsha/polskie-blyuda
+
+Switzerland:
+https://guide.travel.ru/switzerland/geo/
+https://www.swissinfo.ch/rus/%D0%B8%D1%81%D1%82%D0%BE%D1%80%D0%B8%D1%8F-%D1%88%D0%B2%D0%B5%D0%B9%D1%86%D0%B0%D1%80%D0%B8%D0%B8---%D1%85%D1%80%D0%BE%D0%BD%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F/34651972
+https://www.tripzaza.com/ru/destinations/dostoprimechatelnosti-shveytsarii
+https://zurichguide.ru/otdyh/ekskursii-po-shvejtsarii/stoit-posmotret-v-shveritsarii/20-glavnyh-dostoprimechatelnostej-shvejtsarii
+https://zurichguide.ru/info/shvejtsarskaya-kuhnya
