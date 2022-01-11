@@ -1,0 +1,69 @@
+body {
+    background-color: rgb(226, 255, 226); /* green */
+    margin-left: 60px;
+    margin-right: 100px;
+    text-align: justify;
+}
+
+.menu {
+    border: 5px double;
+    margin-right: 1310px;
+}
+
+.cltext {
+    font-weight: 600;
+}
+
+.tx {
+    background-color: rgb(233, 233, 255); /* white */
+    padding-right: 15px;
+    padding-left: 15px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+.azerbaijan {
+    font-size: 52px;
+    letter-spacing: 20px;
+    border-bottom: 4px solid rgb(0, 47, 255); /* blue */
+    border-left: 3px solid rgb(0, 38, 255);  /* blue */
+    margin-right: 1220px;
+    color: rgb(11, 138, 0); /* dark green */
+}
+
+.geopol {
+    font-size: 22px;
+}
+
+.history {
+    letter-spacing: 10px;
+    font-size: 36px
+}
+
+.histext {
+    background-color: rgb(233, 233, 255); /* white */
+    padding-left: 30px;
+    padding-right: 20px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+.sights {
+    font-size: 26px;
+    letter-spacing: 1px;
+}
+
+.firstimg {
+    border: 10px solid transparent;
+    padding: 15px;
+}
+
+.klimattx {
+    font-size: 18px;
+    background-color: rgb(233, 233, 255); /* white */
+    padding-left: 20px;
+    padding-top: 2px;
+    padding-bottom: 2px;
+    padding-right: 20px;
+    margin-right: 200px;
+}

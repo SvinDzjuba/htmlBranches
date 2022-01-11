@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(233, 233, 255); /* white */
+}
+
+.border {
+    border-style: dotted solid double dashed;
+    border-color: blue;
+}
+
+.caption {
+    color: black;
+    letter-spacing: 30px;
+    font-family: Tahoma;
+    font-size: 38px;
+    background-color: yellow;
+    margin: 0px 0px 0px;
+}
+
+.firstcolumn {
+    background-color: rgb(255, 157, 157);
+}
+
+.sec {
+    background-color: rgb(255, 163, 247);
+    font-size: 20px;
+}
+
+.countries {
+    background-color: rgb(148, 250, 148);
+    font-size: 20px;
+}
