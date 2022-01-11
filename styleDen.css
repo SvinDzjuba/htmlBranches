@@ -1,0 +1,32 @@
+body {
+    background-color:rgb(253, 204, 144) /* orange */
+}
+
+.menu {
+    border: dashed 1.9px;
+    margin-right: 1400px;
+    background-color: rgb(180, 230, 173)
+}
+
+p {
+    background-color:rgb(255, 230, 198) /* lightorange */
+}
+
+.whole {
+    padding: 20px 70px 20px
+}
+
+.first {
+    margin-right: 469px;
+    padding: 5px
+}
+
+.denmark {
+    text-align: center;
+    font-size: 56px;
+    letter-spacing: 80px;
+    border: double 6px;
+    background: rgb(34,193,195);
+background: background: rgb(255,201,83);
+background: linear-gradient(0deg, rgba(255,201,83,1) 0%, rgba(159,195,34,1) 100%);
+}
