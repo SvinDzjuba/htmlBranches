@@ -1,0 +1,96 @@
+body {
+    background: rgb(255,184,0);
+    background: linear-gradient(0deg, rgba(255,184,0,0.4822303921568627) 0%, rgba(179,0,255,0.13769257703081228) 100%);
+    text-align: justify;
+    padding-right: 130px;
+    padding-left: 90px;
+
+}
+
+.twoimg {
+    padding-left: 160px;
+}
+
+.menu {
+    background: rgb(179,0,255);
+    background: linear-gradient(90deg, rgba(179,0,255,0.10688025210084029) 0%, rgba(0,255,239,0.577468487394958) 100%);
+    border: 2px solid #00ffef;
+    width:467px;
+    height:20px;
+    padding: 10px;
+    border-radius: 30px 10px;
+    margin-left: 1260px;
+    font-size: 18px;
+    text-align: center
+}
+
+.caption {
+    font-size: 56px;
+    text-align: center;
+    color:rgb(225, 0, 255);
+    outline-style: ridge;
+    border-radius: 50px 50px;
+    margin: 0px 670px ;
+    background-color:rgba(255, 255, 255, 0.507);
+}
+
+p {
+    font-size: 18px;
+    padding: 15px;
+    background-color: rgba(179, 0, 255, 0.192);
+}
+
+h3 {
+    font-size: 24px;
+    color:blueviolet
+}
+
+h2 {
+    font-size: 26px;    
+    color:rgb(189, 0, 0)
+}
+
+h4 {
+    color: rgb(0, 52, 148);
+    font-size: 20px;
+}
+
+.up {
+    color:#00ff00;
+    text-align: center;
+    background-color: #00ff00;
+    border-radius: 30px;
+    border: solid 2px;
+    margin-right: 1580px;
+}
+
+.txsights {
+    font-size: 18px;
+    padding: 15px;
+    background: rgb(179,0,255);
+    background: linear-gradient(0deg, rgba(179,0,255,0) 0%, rgba(0,255,205,0.4822303921568627) 50%, rgba(179,0,255,0) 100%);
+    margin-bottom: 5px;
+}
+
+.bluda {
+    margin: auto;
+    padding: 5px;
+}
+
+.cook {
+    font-size: 48px;
+    text-align: center;
+    letter-spacing: 7px;
+    color:rgb(255, 115, 0);
+    outline-style: ridge;
+    margin: 20px 670px ;
+    background-color:rgba(255, 255, 255, 0.507);
+    padding: 10px;
+}
+
+.txbluda {
+    text-align: center;
+    font-size: 24px;
+    padding-left: 10px;
+    padding-right: 10px
+}

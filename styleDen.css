@@ -1,12 +1,13 @@
 body {
-    background-color:rgb(253, 204, 144) /* orange */
+    background-color:rgb(253, 204, 144); /* orange */
+    text-align: justify;
 }
 
 .menu {
     border: dashed 1.9px;
     margin-right: 1400px;
     background: rgb(255,184,0);
-background: linear-gradient(0deg, rgba(255,184,0,0.4822303921568627) 0%, rgba(0,255,4,0.13769257703081228) 100%);
+    background: linear-gradient(0deg, rgba(255,184,0,0.4822303921568627) 0%, rgba(0,255,4,0.13769257703081228) 100%);
 }
 
 p {
@@ -43,6 +44,7 @@ p {
     letter-spacing: 1px;
     font-size: 18px;
     font-family: Lucida Handwriting;
+    text-align: center;
 }
 
 .tabletext1 {
@@ -50,4 +52,5 @@ p {
     letter-spacing: 1px;
     font-size: 18px;
     font-family: Lucida Handwriting;
+    text-align: center;
 }
