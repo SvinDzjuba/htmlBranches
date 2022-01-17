@@ -67,3 +67,8 @@ body {
     padding-right: 20px;
     margin-right: 200px;
 }
+
+.links {
+    font-size: 16px;
+    font-style: italic;
+}

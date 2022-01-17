@@ -7,7 +7,7 @@ body {
     border-color: blue;
 }
 
-.caption {
+h1 {
     color: black;
     letter-spacing: 30px;
     font-family: Tahoma;
@@ -28,4 +28,8 @@ body {
 .countries {
     background-color: rgb(148, 250, 148);
     font-size: 20px;
+}
+
+th {
+    font-size: 18px;
 }

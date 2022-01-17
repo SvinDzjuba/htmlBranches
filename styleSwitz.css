@@ -17,11 +17,51 @@ body {
 .menu {
     text-align: center;
     font-family: cursive;
-    font-size: 24px;
-    border: 10px solid black;
-    padding: 10px 0px 1px;
-    width: 48%;
+    font-size: 18px;
+    border: 6px solid black;
+    padding: 2px 0px 1px;
+    width: 31%;
     resize: both;
     background: linear-gradient(to top, rgba(#cffffe, 0.3), rgba(#f9f7d9, 0.3), rgba(#fce2ce, 0.3), rgba(#ffc1f3, 0.3));
     border-image: url("data:image/svg+xml;charset=utf-8,%3Csvg width='100' height='100' viewBox='0 0 100 100' fill='none' xmlns='http://www.w3.org/2000/svg'%3E %3ClinearGradient id='g' x1='0%25' y1='0%25' x2='0%25' y2='100%25'%3E%3Cstop offset='0%25' stop-color='%23cffffe' /%3E%3Cstop offset='25%25' stop-color='%23f9f7d9' /%3E%3Cstop offset='50%25' stop-color='%23fce2ce' /%3E%3Cstop offset='100%25' stop-color='%23ffc1f3' /%3E%3C/linearGradient%3E %3Cpath d='M1.5 1.5 l97 0l0 97l-97 0 l0 -97' stroke-linecap='square' stroke='url(%23g)' stroke-width='3'/%3E %3C/svg%3E") 1;
+}
+
+p {
+    font-size: 16px;
+    font-family: sans-serif;
+    letter-spacing:1px;
+    background-color: rgb(252, 242, 212);
+    margin-right: 160px;
+    padding: 15px;
+}
+
+.history {
+    color:rgb(0, 60, 255);
+}
+
+h2 {
+    color:#ff32d6;
+    font-size: 24px;
+}
+
+.bluda {
+    margin: auto;
+    padding: 5px;
+}
+
+.links {
+    text-align: center;
+    padding: 5px;
+    font-size: 14px;
+    font-style: italic;
+    margin-left: 1100px;
+}
+
+.link {
+    text-align: center;
+    font-size: 14px;
+    font-style: italic;
+    margin-right: 160px;
+    margin-left: 160px;
+    padding: 15px;
 }

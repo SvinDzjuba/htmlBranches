@@ -64,7 +64,7 @@ h4 {
 }
 
 .txsights {
-    font-size: 18px;
+    font-size: 20px;
     padding: 15px;
     background: rgb(179,0,255);
     background: linear-gradient(0deg, rgba(179,0,255,0) 0%, rgba(0,255,205,0.4822303921568627) 50%, rgba(179,0,255,0) 100%);
@@ -92,4 +92,15 @@ h4 {
     font-size: 24px;
     padding-left: 10px;
     padding-right: 10px
+}
+
+.links {
+    text-align: center;
+    font-size: 16px;
+    font-style: italic;
+    margin-right: 1300px;
+}
+
+.tablink {
+    margin: auto;
 }
