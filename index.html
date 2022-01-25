@@ -8,40 +8,43 @@
 <body>
     <div class="wrapper">
         <header>
-            <div class="leftimg">
-                <img class="headimg" src="Images/html.png" alt="html" height="50px" width="50px">
-                <img class="headimg" src="Images/css.png" alt="css" width="50px" height="50px">
+            <div class="logo">
+                <img class="headimg" src="Images/html.png" alt="html" height="60px" width="60px">
+                <img class="headimg" src="Images/css.png" alt="css" width="60px" height="60px">
             </div>
-            <div>
-                <h1>РАЗРАБОТКА ВЕБ-ПРИЛОЖЕНИЙ</h1>
+            <div class="zagolovok">
+                <h1>РАЗРАБОТКА <br> ВЕБ-ПРИЛОЖЕНИЙ</h1>
             </div>
-            <div class="rightimg">
-                <img class="headimg" src="Images/twitterbootstrap.png" alt="bootstrap" width="50px">
-                <img class="headimg" src="Images/angularjs.png" alt="AngularJS" width="50px">
+            <div class="logo">
+                <img class="headimg" src="Images/twitterbootstrap.png" alt="bootstrap" width="60px">
+                <img class="headimg" src="Images/angularjs.png" alt="AngularJS" width="60px">
             </div>
         </header>
+
+        <aside>
+            <nav>
+                <ul>
+                    <li>Home</li>
+                    <li>HTML5</li>
+                    <li>CSS3</li>
+                    <li>Bootstrap</li>
+                    <li>AngularJS</li>
+                </ul>
+            </nav>
+        </aside>
 
         <main>
             <h2>КЛИЕНТСКАЯ ЧАСТЬ</h2>
             <section>
-                <aside>
-                    <ul>
-                        <li>Home</li>
-                        <li>HTMK5</li>
-                        <li>CSS3</li>
-                        <li>Bootstrap</li>
-                        <li>AngularJS</li>
-                    </ul>
-                </aside>
-
-                <div>
-
+                <div class="articles1">
                     <section>
                         <h3>HTML</h3>
-                        <article>
-                            <p><img src="Images/html.png" alt="html" width="25px"></p>
+                        <article class="mainarticles">
+                            <p class="languageimg">
+                                <img src="Images/html.png" alt="html" width="25px">
+                            </p>
                             <p>
-                                HTML (от английского HyperText Markup Language) — это язык гипертекстовой разметки страницы. 
+                                <span class="sphtml">HTML</span> (от английского HyperText Markup Language) — это язык гипертекстовой разметки страницы. 
                                 Он используется для того, чтобы дать браузеру понять, как нужно отображать загруженный сайт. 
                                 Язык состоит из тегов — это своеобразные команды, которые преобразовываются в визуальные объекты 
                                 в браузере пользователя. <a href="html.html">Читать далее</a>
@@ -51,47 +54,53 @@
 
                     <section>
                         <h3>Bootstrap</h3>
-                        <article>
-                            <p><img class="bootsp" src="Images/twitterbootstrap.png" alt="bootstrap" width="30px"></p>
+                        <article class="mainarticles">
+                            <p class="languageimg">
+                                <img class="bootsp" src="Images/twitterbootstrap.png" alt="bootstrap" width="40px">
+                            </p>
                             <p>
-                                Bootstrap — это открытый и бесплатный HTML, CSS и JS фреймворк, который используется 
+                                <span class="spbootsp">Bootstrap</span> — это открытый и бесплатный HTML, CSS и JS фреймворк, который используется 
                                 веб-разработчиками для быстрой вёрстки адаптивных дизайнов сайтов и веб-приложений. 
-                                Фреймворк Bootstrap используется не только независимыми разработчиками, но и целыми компаниями. 
-                                Основная область его применения – это разработка фронтенд составляющих сайтов и интерфейсов админок. <a href="bootstrap.html">Читать далее</a>
+                                Фреймворк Bootstrap используется не только независимыми разработчиками, но и целыми компаниями. <a href="bootstrap.html">Читать далее</a>
                             </p>
                         </article>
                     </section>
                 </div>
 
-                <div>
+                <div class="articles2">
                     <section>
                         <h3>CSS</h3>
-                        <article>
-                            <p><img src="Images/css.png" alt="css" width="25px"></p>
+                        <article class="mainarticles">
                             <p>
-                                CSS – это формальный язык, служащий для описания оформления внешнего вида документа, 
-                                созданного с использованием языка разметки (HTML, XHTML, XML). 
-                                Название происходит от английского Cascading Style Sheets, что означает «каскадные таблицы стилей». <a href="css.html">Читать далее</a>
+                                <img class="languageimg" src="Images/css.png" alt="css" width="25px">
+                            </p>
+                            <p>
+                                <span class="spcss">CSS</span> – это формальный язык, служащий для описания оформления внешнего вида документа, 
+                                созданного с использованием языка разметки. 
+                                Название происходит от английского Cascading Style Sheets, что означает «каскадные таблицы стилей». 
+                                Назначение CSS – отделять то, что задает вид страницы, от содержания.<a href="css.html">Читать далее</a>
                             </p>
                         </article>
                     </section>
 
                     <section>
                         <h3>AngularJS</h3>
-                        <article>
-                            <p><img src="Images/angularjs.png" alt="angularjs" width="30px"></p>
+                        <article class="mainarticles">
                             <p>
-                                Angular.JS — это фреймворк для работы с JavaScript, поддерживаемый Google. 
+                                <img class="languageimg" src="Images/angularjs.png" alt="angularjs" width="30px">
+                            </p>
+                            <p>
+                                <span class="spangular">Angular.JS</span> — это фреймворк для работы с JavaScript, поддерживаемый Google. 
                                 Он используется для создания одностраничных приложений и позволяет взаимодействовать с 
-                                DOM (англ. Document Object Model — объектная модель документа).<a href="angularjs.html">Читать далее</a>
+                                DOM (англ. Document Object Model — объектная модель документа). <a href="angularjs.html">Читать далее</a>
                             </p>
                         </article>
                     </section>
                 </div>
 
-                <div>
+                <div class="bottomtext">
                     <article>
-                        <p>
+                        <p class="btmtext">
                             Искусственный интеллект (ИИ) позволяет компьютерам обучаться на собственном опыте, адаптироваться к 
                             задаваемым параметрам и выполнять те задачи, которые раньше были под силу только человеку. 
                             В большинстве случаев реализации ИИ — от компьютерных шахматистов до беспилотных автомобилей — 
@@ -101,9 +110,10 @@
                         </p>
                     </article>
                 </div>
+            </main>
 
-                <aside>
-                    <h3>Новости</h3>
+                <aside class="aside-right">
+                    <h2>Новости</h2>
                     <section>
                         <h4>Чип Microsoft Pluton</h4>
                         <article>
@@ -124,14 +134,12 @@
                                 Благодаря постоянному взаимодействию с людьми они учатся подражать реальным разговорам и реагируют 
                                 на устные или письменные запросы, помогая найти ответы. Поскольку чат-боты используют искусственный 
                                 интеллект (ИИ), то понимают язык, а не просто команды. Таким образом, после каждого диалога они 
-                                становятся умнее. Стоит отметить, что помимо чат-ботов с ИИ, есть и те, которые работают на основе 
-                                запрограммированных сценариев с множественным выбором, например, опция А ведет к опции B и так далее.
+                                становятся умнее.
                             </p>
                         </article>
                     </section>
                 </aside>
             </section>
-        </main>
 
         <footer>
             <p>Дата создания: 24-01-2022</p>

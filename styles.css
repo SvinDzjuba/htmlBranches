@@ -1,15 +1,17 @@
 body {
-
+    background-color: rgb(85, 178, 255);
+    padding:5px;
 }
 
 .wrapper {
     width: 1380px;
-    padding-left: 180px;
-    padding-right: 90px;
+    margin: 0 auto;
+    background-color: white;
 }
 
 header {
-    margin: 30px auto;
+    margin: 0px auto;
+    overflow: hidden;
 }
 
 .headimg {
@@ -17,34 +19,148 @@ header {
     border: 3px solid rgb(78, 205, 255);
     box-shadow: 0 0 7px #666;
     padding: 5px;
+    margin: 0 auto
 }
 
 .bootsp {
     border-radius: 100px;
 }
 
-.leftimg {
-    position: absolute;
-    left: 147px; top: 10px
+.logo {
+    width: 170px;
+    float: left;
+    padding: 10px 100px 100px;
 }
 
-h1 {
+.zagolovok {
+    width: 640px;
+    float:left;
+    font-family: sans-serif;
     text-align: center;
-    margin: 0 10px;
-    position: relative;
-    top: 30px;
-    padding-bottom: 50px;
+    margin: 0 auto;
+    padding-bottom: 10px;
+    letter-spacing: 3px;
+    font-size: 24px;
+    color: red;
+    text-shadow: 1px 1px 0 blue,
+    1px -1px 1px blue,
+    -1px 1px 1px blue,
+   -1px -1px 1px blue, 
+   1px 0px 1px blue , 3px 5px 3px white, 3px 9px 3px blue, 3px 11px 3px red;
+
 }
 
 .rightimg {
-    position: absolute;
-    left: 1240px; top: 10px
+    width: 160px;
+    position: relative;
+    left: 1090px; top: 10px;
 }
 
 h2 {
-    text-align: center;
     font-size: 18px;
     color: blue;
-    padding-bottom: 20px;
     font-weight: 900;
+}
+
+nav {
+    width: 120px;
+    float: left;
+    color: blue;
+    font-weight: 900;
+    padding: 10px 40px;
+
+}
+
+li {
+    padding: 3px;
+}
+
+main {
+    width: 800px;
+    float: left;
+    text-align: center;
+}
+
+h3 {
+    width: 390px;
+    background: linear-gradient(0deg, red 0%, blue 50%, white 90%);
+    color: white;
+    text-shadow: 0 0 2px blue;
+    text-align: center;
+}
+
+
+.articles1 {
+    float:left;
+}
+
+.articles2 {
+    float:right;
+}
+
+.languageimg {
+    float: left;
+    margin: 1px auto;
+    padding: 2px 13px;
+}
+
+.mainarticles { 
+    width: 390px; 
+} 
+ 
+.sphtml { 
+    color: orange; 
+    font-weight: 900; 
+    font-size: 18px;
+}
+
+.spbootsp {
+    color: rgb(67, 0, 122);
+    font-weight: 900;
+    font-size: 18px;
+}
+
+.spcss {
+    color:rgb(78, 140, 255);
+    font-weight: 900;
+    font-size: 18px;
+}
+
+.spangular {
+    color: red;
+    font-weight: 900;
+    font-size: 18px;
+}
+
+.bottomtext {
+    width: 780px;
+    clear:both;
+    padding: 10px;
+    background-color: blue;
+}
+
+.btmtext {
+    padding: 3px;
+    background-color: white;
+    color: blue;
+}
+
+section {
+    text-align: justify;
+}
+
+.aside-right {
+    width: 310px;
+    float: right;
+    text-align: center;
+    margin: 0 35px;
+}
+
+footer {
+    width: 1380px;
+    clear: both;
+    text-align: center;
+    padding: 18px;
+    font-weight: 900;
+    color: blue;
 }
