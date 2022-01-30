@@ -1,0 +1,30 @@
+html:
+https://skillbox.ru/media/code/chto_takoe_html/
+
+css:
+https://wiki.rookee.ru/css/
+
+angularjs:
+https://skillbox.ru/media/code/kak_napisat_odnostranichnoe_prilozhenie_na_angular_js/
+
+bootstrap:
+http://web.spt42.ru/index.php/chto-takoe-bootstrap
+
+
+other sites:
+
+https://www.sas.com/ru_ru/insights/articles/analytics/what-is-artificial-intelligence.html
+
+https://3dnews.ru/
+
+https://sendpulse.com/ru/support/glossary/chatbot
+
+
+html page:
+https://developer.mozilla.org/ru/docs/Learn/Getting_started_with_the_web/HTML_basics
+https://www.hostinger.ru/rukovodstva/shto-takoje-html/
+https://www.google.com/search?q=html+structure&rlz=1C1GCEU_en-GBEE917EE917&source=lnms&tbm=isch&sa=X&sqi=2&ved=2ahUKEwiSwYmzw9H1AhXirpUCHaIiDtkQ_AUoAXoECAEQAw&biw=1920&bih=969&dpr=1#imgrc=Onv6fRzVIl__jM
+https://www.pngfind.com/download/TRbbRJm_-hd-png-download/
+
+css page:
+https://skillbox.ru/media/code/chto_takoe_css/

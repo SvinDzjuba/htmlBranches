@@ -1,0 +1,44 @@
+body {
+    background: linear-gradient(90deg, rgb(174, 232, 255) 0%, rgb(112, 131, 255) 100%);
+}
+
+.wrapper {
+    width: 1300px;
+    padding: 25px;
+    margin: 0 auto;
+    text-align: justify;
+    background-color:rgb(196, 223, 255);
+    border-radius: 50px;
+    box-shadow: 0 2px 25px rgb(0, 255, 213);
+}
+
+header {
+    
+}
+
+footer {
+    clear: both;
+}
+
+aside {
+    width: 150px;
+    float: left;
+    position: fixed;
+    left: 60px; top: 50px;
+}
+
+.asideli {
+    padding: 4px;
+    font-size: 18px;
+    font-family: tahoma;
+    color:rgb(25, 0, 255);
+}
+
+.arrowTop {
+    padding-left: 40px;
+}
+
+.arrowBot {
+    padding-left: 40px;
+    transform: rotatex(180deg);
+}
