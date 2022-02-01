@@ -1,3 +1,7 @@
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     background: linear-gradient(180deg, rgb(255, 162, 119) 0%, rgb(200, 255, 0) 100%);
 }
@@ -85,21 +89,24 @@ aside {
     float: left;
     position: fixed;
     left: 60px; top: 50px;
+    border-radius: 20px;
+    border: 2px solid purple;
+    box-shadow: 2px 1px 8px gray;
 }
 
 .asideli {
-    padding: 4px;
+    padding: 4px 10px;
     font-size: 18px;
     font-family: tahoma;
     color:rgb(25, 0, 255);
 }
 
 .arrowTop {
-    padding-left: 40px;
+    padding-left: 50px;
 }
 
 .arrowBot {
-    padding-left: 40px;
+    padding-left: 50px;
     transform: rotatex(180deg);
 }
 

@@ -1,0 +1,55 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background: linear-gradient(90deg, rgb(174, 232, 255) 0%, rgb(112, 131, 255) 100%);
+}
+
+.wrapper {
+    width: 1300px;
+    padding: 5px 25px 52px;
+    margin: 0 auto;
+    text-align: justify;
+    background-color:rgba(4, 0, 255, 0.301);
+    border-radius: 50px;
+    box-shadow: 0 2px 25px rgb(0, 255, 213);
+}
+
+header {
+    width: 1200px;
+    margin: 50px auto;
+    font-family: 'Segoe UI', Tahoma, Verdana, sans-serif;
+    font-size: 32px;
+    text-align: center;
+    letter-spacing: 5px;
+    background: rgb(114, 104, 95);
+    background: linear-gradient(0deg, rgb(164, 255, 112) 25%, rgb(255, 161, 98) 100%);
+    box-shadow: 2px 9px 15px rgb(0, 0, 0);;
+    color: rgb(31, 54, 255);
+    text-shadow: 5px 1px 3px rgb(255, 255, 255),
+    2px 2px 3px rgb(119, 0, 255);
+}
+
+main {
+    width: 1300px;
+}
+
+h2 {
+    padding: 20px;
+    color: white;
+    text-align: center;
+    text-shadow: 6px 4px 6px rgb(255, 0, 0),
+    1px 1px 0 rgb(0, 0, 0),
+    1px -1px 1px rgb(0, 0, 0),
+    -1px 1px 1px rgb(0, 0, 0),
+   -1px -1px 1px rgb(0, 0, 0);
+}
+
+article {
+    background-color: rgb(181, 255, 212);
+    border-radius: 50px;
+    padding: 20px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    box-shadow: 2px 1px 30px rgb(0, 0, 0);
+}

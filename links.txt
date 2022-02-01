@@ -28,3 +28,6 @@ https://www.pngfind.com/download/TRbbRJm_-hd-png-download/
 
 css page:
 https://skillbox.ru/media/code/chto_takoe_css/
+
+bootstrap:
+http://web.spt42.ru/index.php/chto-takoe-bootstrap
