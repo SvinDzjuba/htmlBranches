@@ -102,11 +102,11 @@ aside {
 }
 
 .arrowTop {
-    padding-left: 50px;
+    padding-left: 45px;
 }
 
 .arrowBot {
-    padding-left: 50px;
+    padding-left: 45px;
     transform: rotatex(180deg);
 }
 

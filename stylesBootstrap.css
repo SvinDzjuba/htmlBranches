@@ -3,7 +3,8 @@ html {
 }
 
 body {
-    background: linear-gradient(90deg, rgb(174, 232, 255) 0%, rgb(112, 131, 255) 100%);
+    background: rgb(115,0,255);
+    background: radial-gradient(circle, rgba(115,0,255,1) 0%, rgba(252,70,141,1) 100%);
 }
 
 .wrapper {
@@ -11,9 +12,9 @@ body {
     padding: 5px 25px 52px;
     margin: 0 auto;
     text-align: justify;
-    background-color:rgba(4, 0, 255, 0.301);
-    border-radius: 50px;
-    box-shadow: 0 2px 25px rgb(0, 255, 213);
+    background-color:rgb(87, 235, 255);
+    border-radius: 10px;
+    box-shadow: 0 2px 85px rgb(255, 255, 255);
 }
 
 header {
