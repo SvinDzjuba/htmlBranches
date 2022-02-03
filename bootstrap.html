@@ -6,20 +6,34 @@
     <link rel="stylesheet" href="stylesBootstrap.css">
 </head>
 <body>
-    <aside></aside>
+    <aside>
+        <ul>
+            <li class="asideli"><a href="index.html">Home</a></li>
+            <li class="asideli"><a href="html.html">HTML</a></li>
+            <li class="asideli"><a href="css.html">CSS</a></li>
+            <li class="asideli">Bootstrap</li>
+            <li class="asideli"><a href="angularjs.html">AngularJS</a></li>
+        </ul>
+    </aside>
 
     <div class="wrapper">
         <header>
             <h1>BOOTSTRAP</h1>
         </header>
 
+        
         <main>
             <section>
                 <article>
-                    <p>Bootstrap - это открытый и бесплатный HTML, CSS и JS фреймворк, 
+                    <p class="mtxt">
+                        Bootstrap - это открытый и бесплатный HTML, CSS и JS фреймворк, 
                         который используется веб-разработчиками для быстрого создания адаптивных дизайнов сайтов.
                     </p>
-
+                    
+                    <div class="titimg">
+                        <img src="Images/whatBoots.png" class="ttimg" alt="titimg">
+                    </div>
+                    
                     <p>
                         Фреймворк Bootstrap используется не только независимыми разработчиками, но и целыми компаниями. 
                         Основная область его применения – это разработка фронтенд составляющих сайтов и интерфейсов админок. 
@@ -37,7 +51,7 @@
 
                 <h2>Классы Bootstrap</h2>
                 <article>
-                    <ul>
+                    <ul class="bootscls">
                         <li>Классы для создания сетки (адаптивного макета страницы)</li>
                         <li>Классы для стилизации контента (текста, кода, изображений, таблиц и другой информации)</li>
                         <li>Служебные классы (для решения наиболее часто встречающихся вспомогательных задач, таких как выравнивание, управление отображением, добавление границ и др.).</li>
@@ -61,7 +75,7 @@
                 
                 <h2>Преимущества фреймворка Bootstrap</h2>
                 <article>
-                    <p>
+                    <p class="cent">
                         Применение фреймворка Bootstrap при создании сайтов даёт следующие преимущества:
                     </p>
                     <ol>
@@ -71,7 +85,7 @@
                         <li>Является кроссбраузерным и кроссплатформенным (адаптирован для всех популярных операционных систем и браузеров (Mozilla Firefox, Google Chrome, Safari, Internet Explorer и Opera и др.), работающих в этих системах)</li>
                         <li>Является открытым и бесплатным. Фреймворк Bootstrap – это проект с открытым исходным кодом, доступным на Github. Он имеет лицензию MIT. Это означает, что его можно использовать бесплатно как для личного, так и для коммерческого использования</li>
                     </ol>
-                    <p>
+                    <p id="bottom">
                         Но, кроме преимуществ у Bootstrap есть также недостатки. Первый заключается в том, что он не 
                         подходит для проектов с уникальным дизайном. В этом случае из Bootstrap для проекта в основном 
                         берут только сетку. Второй – это когда вам для проекта нужны не все компоненты и классы, а только 
@@ -83,8 +97,14 @@
         </main>
 
         <footer>
-
+            <p>31-01-2021</p>
         </footer>
     </div>
+    
+    <div class="arrows">
+        <a href="#top"><img class="arrowTop" src="Images/arrow.png" alt="arrowTop" width="60px"></a>
+        <a href="#bottom"><img class="arrowBot" src="Images/arrow.png" alt="arrowBot" width="60px"></a>
+    </div>
+
 </body>
 </html>

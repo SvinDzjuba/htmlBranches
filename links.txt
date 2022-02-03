@@ -31,3 +31,4 @@ https://skillbox.ru/media/code/chto_takoe_css/
 
 bootstrap:
 http://web.spt42.ru/index.php/chto-takoe-bootstrap
+https://www.ea.com/en-gb/games/apex-legends/media-hub/media/apex-legends-official-launch-trailer
