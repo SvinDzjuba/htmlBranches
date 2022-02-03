@@ -29,6 +29,10 @@ https://www.pngfind.com/download/TRbbRJm_-hd-png-download/
 css page:
 https://skillbox.ru/media/code/chto_takoe_css/
 
-bootstrap:
+bootstrap page:
 http://web.spt42.ru/index.php/chto-takoe-bootstrap
 https://www.ea.com/en-gb/games/apex-legends/media-hub/media/apex-legends-official-launch-trailer
+
+angularjs page:
+http://web.spt42.ru/index.php/chto-takoe-angularjs
+https://www.google.com/search?q=angularjs&sxsrf=APq-WBvZ-kTvY1fwU-g4t50vWwkIJ5nTrA:1643915489684&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjS_bW2nuT1AhVLAxAIHb8cDXUQ_AUoAXoECAEQAw&biw=1920&bih=947&dpr=1#imgrc=XC-bLoV28smxvM

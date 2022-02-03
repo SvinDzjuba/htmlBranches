@@ -9,7 +9,6 @@ body {
 
 .wrapper {
     width: 1300px;
-    padding: 5px 25px 52px;
     margin: 0 auto;
     text-align: justify;
     background-color:rgb(218, 251, 255);
@@ -59,6 +58,7 @@ header {
 
 main {
     width: 1300px;
+    margin-top: 30px;
 }
 
 h2 {
@@ -74,23 +74,29 @@ h2 {
    -1px -1px 1px rgb(0, 0, 0);
 }
 
+nav {
+    margin: 46px 425px;
+}
+
 aside {
-    border: 1px solid rgb(38, 0, 255);
-    width: 190px;
-    height: 230px;
+    overflow: hidden;
+    background-color: #333;
     position: fixed;
+    top: 0;
+    transition: 300ms;
+    border-radius: 10px;
+}
+  
+ aside a {
     float: left;
-    padding-left: 20px;
-    left: 30px; top: 50px;
-    background-color: rgb(0, 174, 255);
-    border-radius:130px;
-    box-shadow: 2px 1px 15px blue;
-    transition: 700ms;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: 150ms;
 }
 
 .asideli {
-    padding: 10px 20px;
-    text-align: justify;
     margin: 0 auto;
     font-weight: 700;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -125,7 +131,13 @@ p{
 aside:hover {
     background-color:rgb(229, 190, 255);
     border-radius:30px;
-    box-shadow: 2px 5px 50px blue;
+    box-shadow: 2px 5px 50px rgb(38, 38, 38);
+    background: rgb(0, 0, 0);
+    color: black;
+}
+
+aside a:hover {
+    background-color: rgb(82, 82, 82);
 }
 
 article:hover {
@@ -138,6 +150,7 @@ ol:hover {
     color: rgb(25, 0, 255);
     padding: 15px 30px;
     box-shadow: 2px 1px 33px yellow;
+    background-color: rgb(217, 251, 255);
 }
 
 li {
@@ -160,9 +173,9 @@ ol {
 }
 
 .arrows {
-    float: right;
+    overflow: hidden;
     position: fixed;
-    bottom: 30px; right: 70px;
+    bottom: 25px; right: 40px;
 }
 
 .arrowBot {
@@ -174,6 +187,6 @@ footer {
     text-align: center;
     font-weight: 900;
     color: rgb(0, 0, 0);
-    padding-top: 20px;
+    padding: 8px;
 }
 
