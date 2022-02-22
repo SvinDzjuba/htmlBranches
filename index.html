@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <title>Registration Form</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="wrapper">
+    <header>
+        <h1>РЕГИСТРАЦИЯ ПОДПИСЧИКА</h1>
+    </header>
+        <main>
+            <form>
+                <label for="name">Как вас зовут?</label>
+                <input type="name" id="name" name="name"><br>
+                
+                <label for="country">Страна проживания?</label>
+                <input type="country" id="country" name="country"><br>
+                
+                <label for="email">Ваш адрес электронной <br> почты:</label>
+                <input type="email" id="email" name="email"><br>
+                
+                <label for="sex1">Ваш пол:</label>
+
+                <input type="radio" id="sex1" name="sex" value="Мужской">
+                <label for="sex1">Мужской</label>
+                <input type="radio" id="sex2" name="sex" value="Женский">
+                <label for="sex2">Женский</label><br>
+
+                <label for="age">Укажите возраст</label>
+                <input type="number" step="1" min="1" max="100" value="15" id="age" name="age"><br>
+
+                <label for="lvl1">Ваш уровень владения компьютером:</label><br>
+
+                <input type="radio" id="lvl1" name="lvl" value="Начальный">
+                <label for="lvl1">Начальный</label><br>
+                <input type="radio" id="lvl2" name="lvl" value="Средний">
+                <label for="lvl2">Средний</label><br>
+                <input type="radio" id="lvl3" name="lvl" value="Профессиональный">
+                <label for="lvl3">Профессиональный</label><br>
+                <input type="radio" id="lvl4" name="lvl" value="Не владею">
+                <label for="lvl4">Не владею</label><br>
+
+                <label for="where">Откуда узнали о нас?</label>
+                <select id="where">
+                    <option value="-">-</option>
+                    <option value="Интернет">Интернет</option>
+                    <option value="Печатные издания">Печатные издания</option>
+                    <option value="Посоветовали знакомые">Посоветовали знакомые</option>
+                    <option value="Телевидение">Телевидение</option>
+                </select>
+                <br>
+
+                <label for="addiction">Дополнительная информация</label><br>
+                <textarea rows="9" name="addiction"></textarea><br>
+
+                <label for="date">Дата подписки</label>
+                <input type="text" id="date" name="date" value="mm/dd/yyyy"><br>
+
+                <input id="button1" type="submit" value="ПОДПИСАТЬСЯ">
+                <input id="button2" type="submit" value="ОЧИСТИТЬ">
+            </form>
+        </main>
+    </div>
+</body>
+</html>
