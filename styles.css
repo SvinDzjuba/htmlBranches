@@ -1,0 +1,20 @@
+.wrapper {
+    width: 1000px;
+    margin: 0px auto;
+    background-color: #ececec;
+    margin-top: 100px;
+}
+
+h1 {
+    text-align: center;
+    font-family: Tahoma;
+}
+
+.imgs {
+    margin: 0px auto;
+    width: 680px;
+}
+
+img {
+    width: 680px;
+}
